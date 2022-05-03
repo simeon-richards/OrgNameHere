@@ -11,4 +11,4 @@ steps:
   inputs:
     versionSpec: '3.7'
 
-- script: src/prime_finder.py
+- script: python src/prime_finder.py
