@@ -16,4 +16,4 @@ steps:
     pytest
   displayName: 'pytest'
 
-- script: python src/prime_finder.py
+- script: python3 src/prime_finder.py
